@@ -83,11 +83,11 @@ This helped me understand ****role-based access control (RBAC)**** and the ****p
 
 ### Screenshots
 
-![Active Directory Organizational Units](screenshots/01-Active-Directory/AD-Organizational-Units.png)
+![Active Directory Organizational Units](screenshoots/01-Active-Directory/AD-Organizational-Units.png)
 
-![HR Folder Access Denied](screenshots/01-Active-Directory/HR-Access-Denied.png)
+![HR Folder Access Denied](screenshoots/01-Active-Directory/HR-Access-Denied.png)
 
-![IT User Denied Access to HR Folder](screenshots/01-Active-Directory/IT-Access-Denied-HR-Folder.png)
+![IT User Denied Access to HR Folder](screenshoots/01-Active-Directory/IT-Access-Denied-HR-Folder.png)
 
 ## Group Policy Security Configuration
 
@@ -117,9 +117,9 @@ I also learned how to verify that a policy is applied to the correct computers i
 
 ### Screenshots
 
-![Workstation Defender Group Policy](screenshots/03-Group-Policy/Workstation-Defender-GPO.png)
+![Workstation Defender Group Policy](screenshoots/03-Group-Policy/Workstation-Defender-GPO.png)
 
-![Employee Screen Lock Policy](screenshots/03-Group-Policy/Employee-Screen-Lock-GPO.png)
+![Employee Screen Lock Policy](screenshoots/03-Group-Policy/Employee-Screen-Lock-GPO.png)
 
 ## Security Monitoring and Account Lockout Investigation
 
@@ -175,9 +175,9 @@ I also learned how account lockout policies can help reduce password-guessing at
 
 ### Screenshots
 
-![Account Lockout Event 4740](screenshots/04-Security-and-Monitoring/AD-Account-Lockout-Event-4740.png)
+![Account Lockout Event 4740](screenshoots/04-Security-and-Monitoring/AD-Account-Lockout-Event-4740.png)
 
-![Failed Login Event 4625](screenshots/04-Security-and-Monitoring/AD-Failed-Login-Event-4625.png)
+![Failed Login Event 4625](screenshoots/04-Security-and-Monitoring/AD-Failed-Login-Event-4625.png)
 
 ## Windows Server Backup and Recovery
 
@@ -233,13 +233,13 @@ I also learned that a backup stored on a separate virtual disk is useful for pra
 
 ### Screenshots
 
-![Backup Completed](screenshots/05-Backup-and-Recovery/Windows-Server-Backup-Completed.png)
+![Backup Completed](screenshoots/05-Backup-and-Recovery/Windows-Server-Backup-Completed.png)
 
-![Backup Verification](screenshots/05-Backup-and-Recovery/Windows-Server-Backup-Verification.png)
+![Backup Verification](screenshoots/05-Backup-and-Recovery/Windows-Server-Backup-Verification.png)
 
-![Backup Contents](screenshots/05-Backup-and-Recovery/Windows-Server-Backup-Contents.png)
+![Backup Contents](screenshoots/05-Backup-and-Recovery/Windows-Server-Backup-Contents.png)
 
-![Recovery Options](screenshots/05-Backup-and-Recovery/Windows-Server-Recovery-Options.png)
+![Recovery Options](screenshoots/05-Backup-and-Recovery/Windows-Server-Recovery-Options.png)
 
 ## Network Configuration
 
@@ -268,9 +268,9 @@ This part of the project helped me understand how DNS supports Active Directory,
 
 ### Screenshots
 
-![DC01 Network Configuration](screenshots/02-DNS-and-Network/DC01-Network-Configuration.png)
+![DC01 Network Configuration](screenshoots/02-DNS-and-Network/DC01-Network-Configuration.png)
 
-![PC01 Domain Membership](screenshots/02-DNS-and-Network/PC01-Domain-Membership.png)
+![PC01 Domain Membership](screenshoots/02-DNS-and-Network/PC01-Domain-Membership.png)
 
 ### Network Architecture Diagram
 
